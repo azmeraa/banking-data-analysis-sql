@@ -1,29 +1,24 @@
-# Banking Data Analysis (SQL Server)
+# 🏦 Banking Data Analysis (SQL Server)
 
-##  Overview
-This project demonstrates SQL and database management skills using a banking dataset.
+## 📌 Overview
+This project demonstrates SQL and Database Administration skills using a banking system dataset.
 
-##  Tools Used
+## 🛠️ Tools
 - Microsoft SQL Server 2014
 - SSMS
 
-## Features
-- Data analysis using SQL queries
-- Fraud detection
-- Customer insights
-
-##  Advanced Features
-- Indexing
-- Views
-- Stored Procedures
-- Triggers
-- Window Functions
-
 ## 📂 Files
-- schema.sql
-- data.sql
-- queries.sql
-- advanced.sql
+- schema.sql → create tables
+- data.sql → insert data
+- queries.sql → analysis
+- advanced.sql → advanced SQL (views, procedures, triggers)
+
+## 🚀 Features
+- SQL queries for data analysis
+- Performance optimization (indexes)
+- Stored procedures
+- Triggers for monitoring
+- Window functions
 
 ## ▶️ How to Run
 1. Run schema.sql
